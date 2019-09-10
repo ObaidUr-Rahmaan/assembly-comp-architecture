@@ -1,2 +1,2 @@
 # MIPS Assembly Language
-A bunch of cool programs exploiting low-level computer architecture.
+A bunch of cool algorithms exploiting low-level computer architecture.
