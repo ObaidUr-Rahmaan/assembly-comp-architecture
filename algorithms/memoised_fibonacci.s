@@ -1,8 +1,3 @@
-# Author : Obaid Ur-Rahmaan
-# ID: 1807611
-# Created: 23/11/2018
-# Updated: 26/11/2018
-
         .data
         
 prompt:     .asciiz "Provide an integer for the Fibonacci computation: "
